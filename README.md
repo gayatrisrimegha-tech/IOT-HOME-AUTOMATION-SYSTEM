@@ -32,4 +32,4 @@ The system is highly scalable and flexible. Additional sensors, smart devices, a
 In conclusion, the **IoT Home Automation System Hardware Project** is an innovative and practical solution that brings automation, remote control, energy efficiency, and security into residential environments. By integrating microcontrollers, sensors, wireless communication, and cloud technology, the system provides intelligent management of household appliances. The project demonstrates the real-world application of the Internet of Things and serves as an excellent example of how connected technologies can improve comfort, convenience, and safety in everyday life.
 
 *OUTPUT*:
-
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/70c36680-94b0-472d-9d34-abdb08b857c2" />
